@@ -1,0 +1,8 @@
+object: 50_person_max_capacity
+volume = 1000
+seats = 50
+tables = 10
+full = true
+
+add_seats: seats + 10 = 60
+The method added 10 seats to the seats variable and increased capacity.
