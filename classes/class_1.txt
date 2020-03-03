@@ -1,0 +1,12 @@
+class: Menu_Item
+
+attributes: price (float)
+            ingredients (string)
+            86d (boolean)
+            portion_size (integer)
+
+methods: price_change (changes price attribute)
+         recipe_change (changes ingredients attribute)
+         re_stock (changes 86d attribute to false)
+         increase_portion (changes the portion_size attribute)
+         
