@@ -1,0 +1,11 @@
+class: Capacity
+
+attributes: volume (float)
+            seats (integer)
+            tables (integer)
+            full (boolean)
+
+Methods: add_room (increases the volume)
+         add_seats (increases the seats)
+         add_tables (increases the tables)
+         customers_leave (changes full boolean value)
