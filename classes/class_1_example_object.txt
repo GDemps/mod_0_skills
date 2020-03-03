@@ -1,0 +1,11 @@
+Object: cheese_sticks
+
+attributes:
+price = 6.50
+ingredients = ["mozzarella cheese", "breading", "marinara"]
+86d = false
+portion_size = 6
+
+price_change: 6.50 + 1.50 = 8.0
+
+The method changed increased the price to 8.0 dollars.
